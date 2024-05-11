@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hsWqXgFBJJX8PhI3cG4iBCgwpPwIXAhSejzDv5uh/NhW7iPvLQLWRFd5qYh61n7XPgiz9nT9z7FLmTba3IOtgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\ViewModel\\ViewModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\26847\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\26847\\.nuget\\packages\\oxyplot.wpf\\2.1.2\\oxyplot.wpf.2.1.2.nupkg.sha512",
+    "C:\\Users\\26847\\.nuget\\packages\\oxyplot.wpf.shared\\2.1.2\\oxyplot.wpf.shared.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
