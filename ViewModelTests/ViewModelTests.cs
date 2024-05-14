@@ -27,7 +27,7 @@ namespace ViewModelTests
             var fileDialogMock = new Mock<IFileDialog>();
             string expectedFilename = "testData.v1d";
             fileDialogMock.Setup(m => m.OpenFileDialog()).Returns(expectedFilename);
-            // Настройка мока, чтобы симулировать выбор пользователя открывать несуществующий файл
+            // РќР°СЃС‚СЂРѕР№РєР° РјРѕРєР°, С‡С‚РѕР±С‹ СЃРёРјСѓР»РёСЂРѕРІР°С‚СЊ РІС‹Р±РѕСЂ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ РѕС‚РєСЂС‹РІР°С‚СЊ РЅРµСЃСѓС‰РµСЃС‚РІСѓСЋС‰РёР№ С„Р°Р№Р»
             var mockData = new V1DataArray("mockData", DateTime.Now);
 
 
@@ -39,23 +39,24 @@ namespace ViewModelTests
 
         }
 
-        //Доп. задания  Проверка когда файл не существует
+        //Р”РѕРї. Р·Р°РґР°РЅРёСЏ  РџСЂРѕРІРµСЂРєР° РєРѕРіРґР° С„Р°Р№Р» РЅРµ СЃСѓС‰РµСЃС‚РІСѓРµС‚
         [Fact]
         public void LoadFromFileCommandHandler_FileNotExist_ShouldSendError()
         {
             var errorSenderMock = new Mock<IErrorSender>();
             var fileDialogMock = new Mock<IFileDialog>();
-            string nonexistentFilename = "nonexistent.v1d";// Имитация выбора несуществующего файла
+            string nonexistentFilename = "nonexistent.v1d";// РРјРёС‚Р°С†РёСЏ РІС‹Р±РѕСЂР° РЅРµСЃСѓС‰РµСЃС‚РІСѓСЋС‰РµРіРѕ С„Р°Р№Р»Р°
 
             fileDialogMock.Setup(m => m.OpenFileDialog()).Returns(nonexistentFilename);
-            // то что вы мне спрашивали:
-            // Это настройка мока, чтобы симулировать выбор пользователя открывать несуществующий файл
+            // С‚Рѕ С‡С‚Рѕ РІС‹ РјРЅРµ СЃРїСЂР°С€РёРІР°Р»Рё:
+            // Р­С‚Рѕ РЅР°СЃС‚СЂРѕР№РєР° РјРѕРєР°, С‡С‚РѕР±С‹ СЃРёРјСѓР»РёСЂРѕРІР°С‚СЊ РІС‹Р±РѕСЂ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ РѕС‚РєСЂС‹РІР°С‚СЊ РЅРµСЃСѓС‰РµСЃС‚РІСѓСЋС‰РёР№ С„Р°Р№Р»
             var viewData = new ViewData(errorSenderMock.Object, fileDialogMock.Object);
 
             viewData.LoadFromFileCommand.Execute(null);
 
             errorSenderMock.Verify(m => m.SendError(It.IsAny<string>()), Times.AtLeastOnce);
-            // Проверка, что метод отправки ошибки был вызван хотя бы один раз
+            // РџСЂРѕРІРµСЂРєР°, С‡С‚Рѕ РјРµС‚РѕРґ РѕС‚РїСЂР°РІРєРё РѕС€РёР±РєРё Р±С‹Р» РІС‹Р·РІР°РЅ С…РѕС‚СЏ Р±С‹ РѕРґРёРЅ СЂР°Р·
+        
         }
 
     }
