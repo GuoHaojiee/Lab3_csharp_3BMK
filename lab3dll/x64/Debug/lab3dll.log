@@ -8,5 +8,5 @@ C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\
   dllmain.cpp
   SPLINE_INTRP_MKL.cpp
   正在生成代码...
-    正在创建库 C:\Users\26847\source\repos\ConsoleApp4\x64\Debug\lab3dll.lib 和对象 C:\Users\26847\source\repos\ConsoleApp4\x64\Debug\lab3dll.exp
-  lab3dll.vcxproj -> C:\Users\26847\source\repos\ConsoleApp4\x64\Debug\lab3dll.dll
+    正在创建库 C:\Users\26847\source\repos\Lab3_csharp_3BMK-main\x64\Debug\lab3dll.lib 和对象 C:\Users\26847\source\repos\Lab3_csharp_3BMK-main\x64\Debug\lab3dll.exp
+  lab3dll.vcxproj -> C:\Users\26847\source\repos\Lab3_csharp_3BMK-main\x64\Debug\lab3dll.dll

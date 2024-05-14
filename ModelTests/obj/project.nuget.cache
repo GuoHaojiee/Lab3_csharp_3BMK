@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cJQzxO9yk0FqIvMn+awsYlCVRZb+2RoHknaq2IDU5WSyeQYAnkpwFH3b7McUtbOq+ldBtY+SOYjf06413KoL7A==",
+  "dgSpecHash": "0vH2sh32vMpchPOUkVqDvrYJbDSt5mj43Is9/TcUoS6XIM1jjO1mp5vNTZpKpjjdNJjtFoelDvIVb7rn/DeBPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\ModelTests\\ModelTests.csproj",
+  "projectFilePath": "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\ModelTests\\ModelTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\26847\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\26847\\.nuget\\packages\\fluentassertions\\6.12.0\\fluentassertions.6.12.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gMmNou63H7KzGTmTNh37expVLpHvl26JoWB3O/xwmt8x2tFUUvUZTDuYfs9r7vD0/oNUESoXZaseg+TM6I9zGA==",
+  "dgSpecHash": "fhe3rnkhWtWPgRI/lzfwcX5ApelQUwqdfKPzblLl4cNgUySGk1tdw5h1y0Njn+9l2067oMaVEW5E+pYlWuXYHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\ViewModelTests\\ViewModelTests.csproj",
+  "projectFilePath": "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\ViewModelTests\\ViewModelTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\26847\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\26847\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",

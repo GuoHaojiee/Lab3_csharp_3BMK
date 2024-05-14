@@ -181,11 +181,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\WpfApp2\\WpfApp2.csproj",
+      "projectUniqueName": "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\WpfApp2\\WpfApp2.csproj",
       "projectName": "WpfApp2",
-      "projectPath": "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\WpfApp2\\WpfApp2.csproj",
+      "projectPath": "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\WpfApp2\\WpfApp2.csproj",
       "packagesPath": "C:\\Users\\26847\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\WpfApp2\\obj\\",
+      "outputPath": "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\WpfApp2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -207,8 +207,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\ViewModel\\ViewModel.csproj": {
-              "projectPath": "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\ViewModel\\ViewModel.csproj"
+            "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\ViewModel\\ViewModel.csproj": {
+              "projectPath": "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\ViewModel\\ViewModel.csproj"
             }
           }
         }

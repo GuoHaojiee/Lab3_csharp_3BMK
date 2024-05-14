@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\WpfApp2\\WpfApp2.csproj": {}
+    "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\WpfApp2\\WpfApp2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj": {
+    "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\ConsoleApp4\\ConsoleApp4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
+        "projectUniqueName": "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\ConsoleApp4\\ConsoleApp4.csproj",
         "projectName": "ConsoleApp4",
-        "projectPath": "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
+        "projectPath": "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\ConsoleApp4\\ConsoleApp4.csproj",
         "packagesPath": "C:\\Users\\26847\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\ConsoleApp4\\obj\\",
+        "outputPath": "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\ConsoleApp4\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -34,8 +34,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\lab3dll\\lab3dll.vcxproj": {
-                "projectPath": "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\lab3dll\\lab3dll.vcxproj"
+              "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\lab3dll\\lab3dll.vcxproj": {
+                "projectPath": "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\lab3dll\\lab3dll.vcxproj"
               }
             }
           }
@@ -69,11 +69,11 @@
         }
       }
     },
-    "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\lab3dll\\lab3dll.vcxproj": {
+    "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\lab3dll\\lab3dll.vcxproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\lab3dll\\lab3dll.vcxproj",
+        "projectUniqueName": "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\lab3dll\\lab3dll.vcxproj",
         "projectName": "lab3dll",
-        "projectPath": "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\lab3dll\\lab3dll.vcxproj",
+        "projectPath": "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\lab3dll\\lab3dll.vcxproj",
         "frameworks": {
           "native": {
             "projectReferences": {}
@@ -84,14 +84,14 @@
         "native": {}
       }
     },
-    "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\ViewModel\\ViewModel.csproj": {
+    "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\ViewModel\\ViewModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\ViewModel\\ViewModel.csproj",
+        "projectUniqueName": "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\ViewModel\\ViewModel.csproj",
         "projectName": "ViewModel",
-        "projectPath": "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\ViewModel\\ViewModel.csproj",
+        "projectPath": "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\ViewModel\\ViewModel.csproj",
         "packagesPath": "C:\\Users\\26847\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\ViewModel\\obj\\",
+        "outputPath": "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\ViewModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -113,8 +113,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj": {
-                "projectPath": "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj"
+              "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\ConsoleApp4\\ConsoleApp4.csproj": {
+                "projectPath": "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\ConsoleApp4\\ConsoleApp4.csproj"
               }
             }
           }
@@ -158,14 +158,14 @@
         }
       }
     },
-    "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\WpfApp2\\WpfApp2.csproj": {
+    "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\WpfApp2\\WpfApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\WpfApp2\\WpfApp2.csproj",
+        "projectUniqueName": "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\WpfApp2\\WpfApp2.csproj",
         "projectName": "WpfApp2",
-        "projectPath": "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\WpfApp2\\WpfApp2.csproj",
+        "projectPath": "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\WpfApp2\\WpfApp2.csproj",
         "packagesPath": "C:\\Users\\26847\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\WpfApp2\\obj\\",
+        "outputPath": "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\WpfApp2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -187,8 +187,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\ViewModel\\ViewModel.csproj": {
-                "projectPath": "C:\\Users\\26847\\source\\repos\\ConsoleApp4\\ViewModel\\ViewModel.csproj"
+              "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\ViewModel\\ViewModel.csproj": {
+                "projectPath": "C:\\Users\\26847\\source\\repos\\Lab3_csharp_3BMK-main\\ViewModel\\ViewModel.csproj"
               }
             }
           }
